@@ -14,7 +14,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 - 💻 Currently studying Selenium, TestNG Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Testing & API testing
 - 🥅 2022 Goals: Complete Professional Certifications
-- 📫 Catch me on LinkedIn: [linkedin]()
+- 📫 Catch me on LinkedIn: [linkedin](linkedin.com/in/ruwani-madumali-0bb728128)
 - ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
 
 &nbsp;
