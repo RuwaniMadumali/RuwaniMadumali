@@ -35,6 +35,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 | Topic                               | Repository                                                                                       | Description                                                                                               |
 |-------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Automation Test Script | [repository](https://github.com/RuwaniMadumali/Automation-Test-Script-Login) | Automation Test Script for E-Commerce Website with Selenium and TestNG framework in java.|
+| API Test Script  | [repository](https://github.com/RuwaniMadumali/automation-api-test-restful-booker) ||
 
 &nbsp;
 ### SKILLS & TOOLS
