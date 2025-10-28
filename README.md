@@ -13,7 +13,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 &nbsp;
 - 💻 Currently studying Selenium, TestNG Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Testing & API testing
-- 🥅 2022 Goals: Complete Professional Certifications
+
 - 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BMHdW435oQAmu4DGNux47yQ%3D%3D)
 - ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
 
