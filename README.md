@@ -4,7 +4,7 @@
  I always try to compete with the world, which makes me a better person than I am yesterday.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊 
 
-<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300">
+
 
 &nbsp;
 - 💻 Currently studying Selenium, TestNG Framework based materials
