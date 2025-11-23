@@ -5,20 +5,36 @@
 ## 🔍 About Me  
 QA Engineer based in Sweden with over 4 years of experience, focused on high-quality software testing, automation, and continuous learning. Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aiming to become a strong **QA Automation Engineer**.
 
-&nbsp;
+## Core Skills Overview
+
+| Category | Technologies / Tools |
+|---------|------------------------|
+| **Manual Testing** | Functional • Regression • Exploratory • Smoke/Sanity • UAT • Cross-browser testing |
+| **Programming Languages** | Python • Java • JavaScript |
+| **Automation Testing** | Selenium WebDriver • TestNG • JUnit • Cucumber (BDD) • POM • Data-driven testing |
+| **API Testing** | Postman • ReadyAPI • Insomnia • REST APIs • Authentication • JSON/XML • API scripting |
+| **Performance Testing** | JMeter (Load & Stress Tests) |
+| **DevOps & CI/CD** | Git • GitHub • GitHub Actions • Version Control • Docker basics |
+| **Databases** | MySQL • Oracle • PostgreSQL • SQL Developer • Data validation • Joins/Grouping |
+| **Tools & Platforms** | Jira • HP ALM • Azure DevOps Server • GitHub • Postman • Browser DevTools |
+| **Methodologies** | Agile • Scrum • Kanban • BDD |
+| **Design & Architecture** | MVC • Layered Architecture • POM • DAO • Factory Pattern • Singleton Pattern |
+
+
 ### Contact Me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruwani-madumali-09092b296/)
 [![Gmail Badge](https://img.shields.io/badge/Email-ruwani.mds@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ruwani.mds@gmail.com)
 
-
-&nbsp;
-### 🧑‍💻 MY WORKS
+<!-- 
+### MY WORKS
 
 | Topic                               | Repository                                                                                       | Description                                                                                               |
 |-------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Automation Test Script | [repository](https://github.com/RuwaniMadumali/Automation-Test-Script-Login) | Automation Test Script for E-Commerce Website with Selenium and TestNG framework in java.|
 | API Test Script  | [repository](https://github.com/RuwaniMadumali/automation-api-test-restful-booker) ||
+
+
 
 &nbsp;
 ### SKILLS & TOOLS
@@ -55,10 +71,13 @@ QA Engineer based in Sweden with over 4 years of experience, focused on high-qua
 </p>
 
 &nbsp;
+-->
+
 
 ### MY GITHUB STATS
 [![Ruwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuwaniMadumali&show_icons=true&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
+<!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwaniMadumali&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
@@ -66,5 +85,5 @@ QA Engineer based in Sweden with over 4 years of experience, focused on high-qua
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+-->
 
