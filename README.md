@@ -10,7 +10,7 @@ Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aim
 - 💻 Currently studying Selenium, TestNG Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Testing & API testing
 
-- 📫 Catch me on LinkedIn: linkedin.com/in/ruwani-madumali-09092b296
+- 📫 Catch me on LinkedIn:  [linkedin](linkedin.com/in/ruwani-madumali-09092b296)
 - ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
 
 &nbsp;
