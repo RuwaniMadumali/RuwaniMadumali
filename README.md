@@ -1,10 +1,6 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/810dadd119866ca813baf730610270baefa7d73b7e94e867594964f5ba619ef9/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f">
- <source media="(prefers-color-scheme: light)"https://camo.githubusercontent.com/810dadd119866ca813baf730610270baefa7d73b7e94e867594964f5ba619ef9/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f">
- <img alt="YOUR-ALT-TEXT" src="https://camo.githubusercontent.com/810dadd119866ca813baf730610270baefa7d73b7e94e867594964f5ba619ef9/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f" width="100%">
-</picture>
-<h1 align="center">Hi 👋, I'm Ruwani Madumali</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer from Sri Lanka</h3>
+
+<h1>Hi 👋, I'm Ruwani Madumali</h1>
+<h3 align="center">A passionate Software Quality Assurance Engineer</h3>
  I always try to compete with the world, which makes me a better person than I am yesterday.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊 
 
