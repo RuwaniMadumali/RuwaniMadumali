@@ -11,13 +11,8 @@ QA Engineer based in Sweden with over 4 years of experience, focused on high-qua
 &nbsp;
 ### Contact Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ruwani_Madumali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ruwani_Madumali-64bb50209/)](https://www.linkedin.com/in/Ruwani_Madumali-64bb50209/)&nbsp;
-<!--
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/17742986/ruwani-madumali)](https://stackoverflow.com/users/17742986/ruwanimadumali)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RuwaniMadumali)
-&nbsp;
--->
+[![Linkedin Badge](https://www.linkedin.com/in/ruwani-madumali-09092b296/)&nbsp;
+
 [![Gmail Badge](https://img.shields.io/badge/-ruwanimadumalids@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruwanimadumalids@gmail.com)](mailto:ruwanimadumalids@gmail.com)
 
 &nbsp;
