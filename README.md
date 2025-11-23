@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Ruwani Madumali</h1>
-<h3 align="center">Software QA Engineer | Test Automation (Python + Selenium)</h3>
+<h3>Software QA Engineer | Test Automation (Python + Selenium)</h3>
 
 &nbsp;
 - 💻 Currently studying Selenium, TestNG Framework based materials
