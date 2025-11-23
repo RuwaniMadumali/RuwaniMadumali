@@ -1,10 +1,6 @@
 
 <h1>Hi 👋, I'm Ruwani Madumali</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer</h3>
- I always try to compete with the world, which makes me a better person than I am yesterday.
-Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊 
-
-
+<h3 align="center">Software QA Engineer | Test Automation (Python + Selenium)</h3>
 
 &nbsp;
 - 💻 Currently studying Selenium, TestNG Framework based materials
