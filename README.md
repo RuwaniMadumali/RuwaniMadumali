@@ -1,17 +1,12 @@
 
 <h1>Hi 👋, I'm Ruwani Madumali</h1>
-<h3>Software QA Engineer | Test Automation (Python + Selenium)</h3>
+<h3>Software QA Engineer | Test Automation </h3>
 
 ## 🔍 About Me  
-QA Engineer based in Sweden with over 4 years of experience, focused on high-quality software testing, automation, and continuous learning.  
-Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aiming to become a strong **QA Automation Engineer**.
+QA Engineer based in Sweden with over 4 years of experience, focused on high-quality software testing, automation, and continuous learning. Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aiming to become a strong **QA Automation Engineer**.
 
 &nbsp;
-- 💻 Currently studying Selenium, TestNG Framework based materials
-- 💬 Mostly liking to share the knowledge about Web Application Testing & API testing
-
 - 📫 Catch me on LinkedIn:  [linkedin](https://www.linkedin.com/in/ruwani-madumali-09092b296/)
-- ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
 
 &nbsp;
 ### Contact Me:
