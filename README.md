@@ -6,9 +6,6 @@
 QA Engineer based in Sweden with over 4 years of experience, focused on high-quality software testing, automation, and continuous learning. Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aiming to become a strong **QA Automation Engineer**.
 
 &nbsp;
-- 📫 Catch me on LinkedIn:  [linkedin](https://www.linkedin.com/in/ruwani-madumali-09092b296/)
-
-&nbsp;
 ### Contact Me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruwani-madumali-09092b296/)
