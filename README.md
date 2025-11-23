@@ -70,10 +70,9 @@ Currently improving skills in **Selenium, Python, API Testing, CI/CD & AWS** aim
 &nbsp;
 
 ### MY GITHUB STATS
-
-[![Ruwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuwaniMadumali&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuwaniMadumali&show_icons=true&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwaniMadumali&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwaniMadumali&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 &nbsp;
