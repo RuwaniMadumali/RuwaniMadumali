@@ -73,11 +73,11 @@ QA Engineer based in Sweden with over 4 years of experience, focused on high-qua
 &nbsp;
 -->
 
-
+<!--
 ### MY GITHUB STATS
 [![Ruwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuwaniMadumali&show_icons=true&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-<!--
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwaniMadumali&theme=default&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
